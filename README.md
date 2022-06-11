@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Furqan Khalil</h1>
-<h3 align="center">A Impassioned Data Scientist from Pakistan</h3>
+<h3 align="center">An Impassioned Data Scientist from Pakistan</h3>
 
 <p align="left"> <a href="https://twitter.com/furqikhan12" target="blank"><img src="https://img.shields.io/twitter/follow/furqikhan12?logo=twitter&style=for-the-badge" alt="furqikhan12" /></a> </p>
 
 - 🔭 I’m currently working on [Car Price Prediction Using Machine Learning](https://car-price-prediction000.herokuapp.com/)
 
 - 🌱 I’m currently learning **Furthermore In Data Science**
+
+- 📫 How to reach me **furqikhan12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
